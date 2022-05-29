@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "diode",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\WDAGUtilityAccount\\diode_\\amplify\\backend\\api\\diode\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authdiode9526cab9"
+    }
+  }
+}

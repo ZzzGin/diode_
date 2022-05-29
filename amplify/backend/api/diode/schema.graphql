@@ -1,0 +1,7 @@
+type Diode 
+  @model 
+  @auth(rules: [{ allow: owner }]) {
+  id: ID!
+  state: Boolean!
+  owner: String
+}

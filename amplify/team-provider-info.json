@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-diode-dev-191712-authRole",
+      "UnauthRoleArn": "arn:aws:iam::988280934870:role/amplify-diode-dev-191712-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::988280934870:role/amplify-diode-dev-191712-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-diode-dev-191712-deployment",
+      "UnauthRoleName": "amplify-diode-dev-191712-unauthRole",
+      "StackName": "amplify-diode-dev-191712",
+      "StackId": "arn:aws:cloudformation:us-east-1:988280934870:stack/amplify-diode-dev-191712/7948f120-def5-11ec-91db-0ec4416ba3bd",
+      "AmplifyAppId": "dlguud5wz45l7"
+    },
+    "categories": {
+      "auth": {
+        "diode9526cab9": {}
+      }
+    }
+  }
+}

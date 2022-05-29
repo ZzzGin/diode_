@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "diode",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authdiode9526cab9",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
